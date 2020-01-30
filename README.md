@@ -1,5 +1,5 @@
 # cars-app
-To display and modify car details using Node JS
+To display and modify car details using Node JS and Mongo DB.
 ### Clone the Repository Using Git clone command.
 #### Install Git Bash and Run the following commands in Git Bash command prompt
 		git clone https://github.com/rajesh612/cars-app.git
